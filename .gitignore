@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# macOS
+__MACOSX/
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Output files (optional - comment out if you want to track these)
+# *.csv
+
+# Large data files (exceed GitHub's 100MB limit)
+data/purchases.csv
+data/sales.csv
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
